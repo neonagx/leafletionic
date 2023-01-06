@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'leafletIonic',
   appName: 'leafletIonic',
   webDir: 'www',
   bundledWebRuntime: false
